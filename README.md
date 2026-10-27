@@ -1,6 +1,6 @@
 # IBDP Chemistry By Sanjith Chellamuthu
 
-Revision site for IB Chemistry SL (2016 syllabus, topics 1 to 8 and organic chemistry up to addition polymers): every 2022 to 2025 past paper question that fits the syllabus, sorted by topic and sub topic, with hidden model answers, done and review marks, a progress tracker, notes, formulas and an exam countdown.
+Revision site for IB Chemistry SL (2016 syllabus, topics 1 to 8 and organic chemistry up to addition polymers): every 2022 to 2025 past paper question that fits the syllabus, grouped by paper (Paper 1, Paper 1B, Paper 2) and year, each labelled with its sub topic, with hidden model answers, done and review marks, a progress tracker, notes, formulas and an exam countdown.
 
 ## Files
 
